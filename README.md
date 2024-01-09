@@ -11,7 +11,7 @@ An Entity Relationship Diagram is created from 6 csv files using [QuickDBD](http
 ![EmployeeSQL_ERD_Graphic](https://github.com/bandaexpress/sql-challenge/assets/17518802/82262a34-2963-484b-a9fa-b52ec78034e1)
 
 ## Data Engineering
-A table schema is created for each of the six csv files. THe schema can be found in the EmployeeSQL folder > in the file titled [EmployeeSQL.sql](https://github.com/bandaexpress/sql-challenge/blob/main/EmployeeSQL/EmployeeSQL.sql) Specifying:
+A table schema is created for each of the six csv files. The schema can be found in the EmployeeSQL folder > in the file titled [EmployeeSQL.sql](https://github.com/bandaexpress/sql-challenge/blob/main/EmployeeSQL/EmployeeSQL.sql) Specifying:
 - Data types, primary keys, foreign keys, and other constraints.
 
 ## Data Analysis
